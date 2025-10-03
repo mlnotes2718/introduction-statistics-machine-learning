@@ -146,7 +146,7 @@ def step_by_step_example():
     print()
     
     print("Step 2: This equals the integral")
-    print(f"   ∫_{-∞}^{z} (1/√(2π)) * e^(-x²/2) dx")
+    print(f"   ∫_{-8}^{z} (1/√(2π)) * e^(-x²/2) dx")
     print()
     
     print("Step 3: Use norm.cdf() to compute this")
